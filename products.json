@@ -1,0 +1,28 @@
+{
+  "products": {
+    "2549": {
+      "name": "Testing",
+      "hubid": "2549",
+      "users": {
+        "1": {
+          "status": true,
+          "id": "1"
+        },
+        "1654": {
+          "status": true,
+          "userid": 1654
+        }
+      }
+    },
+    "01": {
+      "name": "BCSO FPIU W/ Realistic/IRL lighting.",
+      "hubid": "01",
+      "users": {
+        "1": {
+          "status": true,
+          "userid": 1
+        }
+      }
+    }
+  }
+}
