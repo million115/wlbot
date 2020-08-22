@@ -1,4 +1,4 @@
-#wlbot Hey,this code isn't supported anymore,however it's pretty easy to configure!
+ Hey,this code isn't supported anymore,however it's pretty easy to configure!
 =================
 
 1. clone this repo with `git clone https://github.com/Million1156/wlbot`
