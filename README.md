@@ -1,4 +1,5 @@
- Hey,this code isn't supported anymore,however it's pretty easy to configure!
+ Hey,this code isn't supported anymore,however it's pretty easy to configure! |
+Update! The "wlbot.zip" is not meant to be downloaded,I accidentally put it in there. Thanks for all the support. I plan to update this in the near future with a better whitelist check system!
 =================
 
 1. clone this repo with `git clone https://github.com/Million1156/wlbot`
