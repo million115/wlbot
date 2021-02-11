@@ -6,7 +6,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "command.js": "0.0.1",
     "discord.js": "github:discordjs/discord.js",
     "dotenv": "^8.2.0",
